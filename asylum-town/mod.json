@@ -4,7 +4,7 @@
 	
 	"author" : "just Ben Yan, no FF team any longer. BGM in Asylum was made by Heroes Orchestra.",
 	"contact" : "http://forum.vcmi.eu/index.php",
-	"version" : "2.12",
+	"version" : "2.13",
 	"modType" : "Town",	
 	
     "factions" : [ "config/asylum/town" ],
@@ -74,6 +74,7 @@
 	],
 	"changelog" :
     {
+		"2.13"  : [ "Fixed Polish translation integrity with original game version by Yoshiro." ],
 		"2.12"	: [ "Fix Grail not to produce gold" ],
 		"2.11"	: [ "Update to vcmi-1.6 format" ],
 		"2.10"	: [ "Updated russian translation" ],
