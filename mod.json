@@ -168,28 +168,28 @@
 		"name" : "梦境",
 		"description" : "梦境是一个黑暗精灵为主体的种族。主要兵种为黑暗精灵和异界生物。均免疫心智和士气。",
 		"translations" : [
-			"translation/asylum/chinese.json"
+			"translation/chinese.json"
 		]
 	},
 	"german" : {
 		"name" : "Zuflucht",
 		"description" : "Zuflucht Stadt",
 		"translations" : [
-			"translation/asylum/german.json"
+			"translation/german.json"
 		]
 	},
 	"polish" : {
 		"name" : "Azyl",
 		"description" : "Mod dodaje nowe miasto: Azyl",
 		"translations" : [
-			"translation/asylum/polish.json"
+			"translation/polish.json"
 		]
 	},
 	"russian" : {
 		"name" : "Убежище",
 		"description" : "Новый город Убежище, созданный в тематике тёмного магического леса",
 		"translations" : [
-			"translation/asylum/russian.json"
+			"translation/russian.json"
 		]
 	}
 }
